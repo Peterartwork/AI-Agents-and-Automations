@@ -1,1 +1,1 @@
-# AI-Agents-and-Automations
+# Prompting Handbook
